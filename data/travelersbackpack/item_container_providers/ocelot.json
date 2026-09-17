@@ -1,0 +1,16 @@
+{
+  "type": "easyshulkerboxes:item",
+  "background_color": "brown",
+  "filter_container_items": true,
+  "inventory_width": 9,
+  "inventory_height": 11,
+  "nbt_key": "Inventory/Items",
+  "disallowed_items": [
+    "#travelersbackpack:custom_travelers_backpack",
+    "prominent:molten_core",
+    "prominent:molten_remnant",
+    "zenith:ender_lead",
+    "minecraft:beehive",
+    "minecraft:bee_nest"
+  ]
+}
